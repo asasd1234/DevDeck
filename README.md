@@ -1,0 +1,2 @@
+# DevDeck
+A developer-focused macropad that has dedicated keys for running build commands, executing Git actions (commit, push, pull, and branch creation), inserting code templates, launching terminals, and switching between VS Code workspaces.
